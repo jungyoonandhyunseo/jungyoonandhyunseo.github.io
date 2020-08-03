@@ -150,6 +150,10 @@ body {
 	margin: 0px;
 }
 
+.content > img {
+	max-width: 100%;
+}
+
 /* width */
 ::-webkit-scrollbar {
   width: 2px;
